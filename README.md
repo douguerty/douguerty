@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Alisson Douguerty 👨‍💻
+- Atualmente trabalho como **Tech Lead DevOps** em uma Software House e atuo como freelancer na <a href="https://devsensei.com.br" target="_blank">**DevSensei**</a>.
 
 <div>
-  <a href="https://beacons.ai/douguerty" target="_blank">
+  <a href="https://devsensei.com.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douguerty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douguerty&layout=compact&langs_count=7&theme=dark"/>
 </div>
