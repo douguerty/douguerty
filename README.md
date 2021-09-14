@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alisson Douguerty 👨‍💻
-- Atualmente trabalho como **Tech Lead DevOps** em uma Software House e atuo como freelancer na <a href="https://devsensei.com.br" target="_blank">**DevSensei**</a>.
+- Atualmente trabalho como **Tech Lead DevOps** em uma Software House</a>.
 
 <div>
-  <a href="https://devsensei.com.br" target="_blank">
+  <a href="https://www.alissondouguerty.com.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douguerty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douguerty&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -24,7 +24,7 @@
   <a href="https://instagram.com/alissondouguerty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:amdouguerty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/adouguerty" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://devsensei.com.br" target="_blank"><img src="https://img.shields.io/badge/-DevSensei-yellow?style=for-the-badge" target="_blank"></a>
+  <a href="https://www.alissondouguerty.com.br" target="_blank"><img src="https://img.shields.io/badge/-Meu Site-black?style=for-the-badge" target="_blank"></a>
  
   ![Snake animation](https://github.com/douguerty/douguerty/blob/output/github-contribution-grid-snake.svg)
  
