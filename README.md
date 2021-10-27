@@ -23,7 +23,7 @@
 <div> 
   <a href="https://instagram.com/alissondouguerty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:amdouguerty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/adouguerty" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/alissondouguerty" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.alissondouguerty.com.br" target="_blank"><img src="https://img.shields.io/badge/-Meu Site-black?style=for-the-badge" target="_blank"></a>
  
   ![Snake animation](https://github.com/douguerty/douguerty/blob/output/github-contribution-grid-snake.svg)
