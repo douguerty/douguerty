@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Alisson Douguerty 👨‍💻
-- Atualmente trabalho como **Tech Lead DevOps** em uma Software House</a>.
 
 <div>
   <a href="https://www.alissondouguerty.com.br" target="_blank">
